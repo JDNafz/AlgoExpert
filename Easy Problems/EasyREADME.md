@@ -4,9 +4,9 @@
 
 🔵 [View: Medium](/Medium%20Problems/MediumREADME.md)
 
-🔴 View: Hard
+🔴 [View: Hard and Very Hard](/Hard%20Problems/HardREADME.md)
 
-⚫ View: Very Hard
+[View all](/README.md)
 
 
 | Question                                                                                          | Difficulty | Category             |

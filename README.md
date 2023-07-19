@@ -7,11 +7,11 @@ I finished my [certificate](https://certificate.io/AE-6df5b1a9c9)  from ](https:
 ## Questions
 
 
-🟢 [Easy](Easy%20Problems/EasyREADME.md)
+🟢 [View only the Easy problems](Easy%20Problems/EasyREADME.md)
 
-🔵 [Medium](/Medium%20Problems/MediumREADME.md)
+🔵 [View only the Medium problems](/Medium%20Problems/MediumREADME.md)
 
-🔴 ⚫[View: Hard and Very Hard](/Hard%20Problems/HardREADME.md)
+🔴 ⚫[View only the Hard and Very Hard problems](/Hard%20Problems/HardREADME.md)
 
 | Question                                                                                          | Difficulty | Category             |
 | ------------------------------------------------------------------------------------------------- | ---------- | ----------------------  |
