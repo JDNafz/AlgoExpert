@@ -7,7 +7,7 @@ I finished my [certificate](https://certificate.algoexpert.io/AE-6df5b1a9c9)  fr
 ## Questions
 
 
-🟢 [Easy] (/AlgoExpert/Easy%20Problems/EasyREADME.md/)
+🟢 [Easy](/AlgoExpert/Easy%20Problems/EasyREADME.md)
 
 🔵 Medium
 
