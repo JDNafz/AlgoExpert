@@ -1,12 +1,9 @@
-## Medium Questions from AlgoExpert
-🔵 Medium
+## 🔵 Medium Questions from AlgoExpert
 
 
 🟢 [View: Easy](Easy%20Problems/EasyREADME.md)
 
-🔴 View: Hard
-
-⚫ View: Very Hard
+🔴 ⚫[View: Hard and Very Hard](/Hard%20Problems/HardREADME.md)
 
 | Question                                                                                          | Difficulty | Category             |
 | ------------------------------------------------------------------------------------------------- | ---------- | ----------------------  |
