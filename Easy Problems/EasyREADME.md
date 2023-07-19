@@ -1,5 +1,4 @@
-## Easy Questions from
-🟢 Easy
+## 🟢 Easy Questions from
 
 
 🔵 [View: Medium](/Medium%20Problems/MediumREADME.md)
