@@ -2,7 +2,7 @@
 🟢 Easy
 
 
-🔵 [View: Medium](/AlgoExpert/Medium%20Problems/MediumREADME.md)
+🔵 [View: Medium](/Medium%20Problems/MediumREADME.md)
 
 🔴 View: Hard
 
@@ -11,7 +11,7 @@
 
 | Question                                                                                          | Difficulty | Category             |
 | ------------------------------------------------------------------------------------------------- | ---------- | ----------------------  |
-| [Two Number Sum](/AlgoExpert/Easy%20Problems/Two%20Number%20Sum.py)                                                 | 🟢         | Arrays                  |
+| [Two Number Sum](/Two%20Number%20Sum.py)                                                 | 🟢         | Arrays                  |
 | [Validate Subsequence](/AlgoExpert/Easy%20Problems/Validate%20Subsequence.py)                                       | 🟢         | Arrays                  |
 | [Sorted Squared Array](/AlgoExpert/Easy%20Problems/Sorted%20Squared%20Array.py)                                     | 🟢         | Arrays                  |
 | [Tournament Winner](/AlgoExpert/Easy%20Problems/Tournament%20Winner.py)                                             | 🟢         | Arrays, Dictionary      |
