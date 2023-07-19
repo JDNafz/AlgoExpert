@@ -3,12 +3,14 @@
 
 
 🟢 [View: Easy](Easy%20Problems/EasyREADME.md)
+
 🔴 View: Hard
+
 ⚫ View: Very Hard
 
 | Question                                                                                          | Difficulty | Category             |
 | ------------------------------------------------------------------------------------------------- | ---------- | ----------------------  |
-| [Min Max Stack Construction](/Min%20Max%20Stack%20Construction.py)                                       | 🔵         | Stacks                  |
+| [Min Max Stack Construction](/Medium%20Problems/Min%20Max%20Stack%20Construction.py)                     | 🔵         | Stacks                  |
 | [Balanced Brackets](/Medium%20Problems/Balanced%20Brackets.py)                                           | 🔵         | Stacks                  |
 | [Sunset Views](/Medium%20Problems/Sunset%20Views.py)                                                     | 🔵         | Stacks                  |
 | [Permutations](/Medium%20Problems/Permutations.py)                                                       | 🔵         | Recursion               |
