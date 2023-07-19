@@ -17,7 +17,7 @@ I finished my [certificate](https://certificate.algoexpert.io/AE-6df5b1a9c9)  fr
 
 | Question                                                                                          | Difficulty | Category             |
 | ------------------------------------------------------------------------------------------------- | ---------- | ----------------------  |
-| [Apartment Hunting](/Very%20Hard/Apartment%20Hunting.ipynb)                                              | ⚫         | Arrays                  |
+| [Apartment Hunting](/VeryHard/Apartment%20Hunting.ipynb)                                              | ⚫         | Arrays                  |
 | [cal test](/VeryHard/CalendarMatching.py)
 [Calendar Matching](/AlgoExpert/Very%20Hard/Calendar%20Matching.py)                                                 | ⚫         | Arrays                  |
 | [Find Loop](/AlgoExpert/Hard%20Problems/Find%20Loop.py)                                                             | 🔴         | Linked Lists            |
