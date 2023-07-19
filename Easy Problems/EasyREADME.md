@@ -2,8 +2,10 @@
 🟢 Easy
 
 
-🔵 View: Medium
+🔵 [View: Medium](/AlgoExpert/Medium%20Problems/MediumREADME.md)
+
 🔴 View: Hard
+
 ⚫ View: Very Hard
 
 
